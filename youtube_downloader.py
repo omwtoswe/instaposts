@@ -1,3 +1,6 @@
+#installation 
+#pip3 install pytube
+
 from pytube import YouTube
 
 # link of the video to be downloaded
